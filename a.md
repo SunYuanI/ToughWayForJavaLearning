@@ -195,4 +195,4 @@ fdfadfa
 
 
 
-![https://cdn.jsdelivr.net/gh/SunYuanI/img/img/1175.png](https://cdn.jsdelivr.net/gh/SunYuan/img/1175.png)
+![https://leetcode.cn/problems/prime-arrangements/](https://cdn.jsdelivr.net/gh/SunYuan/img/1175.png)
