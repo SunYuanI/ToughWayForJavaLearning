@@ -14,7 +14,7 @@ flowchart LR;
 
 
 
-[jump](./a.md#head-lalala)
+[jump](./a.md#648. 单词替换)
 
 
 
