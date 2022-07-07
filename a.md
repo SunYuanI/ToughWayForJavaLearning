@@ -193,6 +193,4 @@ fdfadfa
 ### 标题
 这是第三个标题
 
-
-
-![https://leetcode.cn/problems/prime-arrangements/](https://cdn.jsdelivr.net/gh/SunYuan/img/1175.png)
+### [648. 单词替换](https://leetcode.cn/problems/replace-words/)
