@@ -14,7 +14,8 @@ flowchart LR;
 
 
 
-[jump](./a.md#648. 单词替换)
+[jump][./a.md "648. 单词替换"]
+
 
 
 
